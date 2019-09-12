@@ -1,1 +1,1 @@
-# EECE4371-Homework
+Program runs well and allows user to input a word, which it will then send to the screen. When screen is rotated, then 6 of the 7 methods are called; however, the remaining function (onResart()) cannot seem to be called regardless of what behavior the program is given. That aside, the program works as expected and calls onPause(), onStop(), onDestroy(), onCreate(), onStart(), and onResume(), respectively.
